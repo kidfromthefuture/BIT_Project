@@ -1,4 +1,6 @@
-BIT_ETH Project
+CRYPTO Project
 ===========
+
+BTC first test
 
 ETH first test
