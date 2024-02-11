@@ -1,4 +1,4 @@
-BIT_Project
+BIT_ETH Project
 ===========
 
-This is test report
+ETH first test
